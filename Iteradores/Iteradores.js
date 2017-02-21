@@ -16,8 +16,8 @@ console.log(array);
 console.log(typeof array[Symbol.iterator]);
 //el arreglo u objeto contiene este 'Symbolo.iterator' que lo define
 //y es de tipo function.
-let it = array[Symbol.iterator]();//it es ina funcion "Un objeto"
-//que solo dispone de un método.
+let it = array[Symbol.iterator]();//it es una función "Un objeto"
+//que sólo dispone de un método.
 console.log(it);
 console.log(it.next());
 console.log(it.next());
