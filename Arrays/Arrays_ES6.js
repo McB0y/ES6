@@ -53,3 +53,7 @@ var it = arr.entries();//Nos devuelve un objeto iterator de Array
 for(elemento of it){
   console.log(elemento);
 }
+
+
+//Archivos del repo en edición. 
+//Ignorese cualquier cambio hasta que el profesor de nuevo aviso.
