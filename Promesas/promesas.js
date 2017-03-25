@@ -4,6 +4,7 @@ Promesas: Tenemos disponible el uso de promesas en ES6 de manera nativa
 bastante útil para realizar tareas en segundo plano de forma no bloqueante,
 también nos ayuda a estilizar el código y evitar el "callback hell".
 
+Incluirlas sobre un indice de tareas asincronas en los proyectos.
 */
 
 
